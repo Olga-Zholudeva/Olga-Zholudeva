@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I am a Python backend developer
+
+- 🔭 I’m currently working on [APP IDP](https://github.com/Olga-Zholudeva/Individual_development_plan)
+- :longrid: longrid
+- 📫 How to reach me: [Telegram](https://t.me/oljoludeva)
