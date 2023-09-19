@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Application IDP](https://github.com/Olga-Zholudeva/Individual_development_plan)
 - :bike: Hobbies: longboard
 - 📫 How to reach me:
-    email: joludeva.olga@yandex.ru
-    TG: [Telegram](https://t.me/oljoludeva)
+    - email: joludeva.olga@yandex.ru
+    - [Telegram](https://t.me/oljoludeva)
 
 ___
 
