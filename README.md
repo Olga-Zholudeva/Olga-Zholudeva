@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ### I am a Python backend developer
 
 - 🔭 I’m currently working on [APP IDP](https://github.com/Olga-Zholudeva/Individual_development_plan)
-- :longrid: longrid
+- :bike: longrid
 - 📫 How to reach me: [Telegram](https://t.me/oljoludeva)
