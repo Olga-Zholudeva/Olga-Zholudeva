@@ -26,7 +26,7 @@ ___
 
 <img align='left' alt='Python' width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/>
 <img align='left' alt='Django' width='40px' src='https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png'/>
-<img align='left' alt='Flask' width='40px' src='https://avatars.mds.yandex.net/i?id=ab20ecf53e1f75a6a220dcfb58117c4e0694e2dd-4404575-images-thumbs&n=13'/>
+<img align='left' alt='Flask' width='40px' src='https://avatars.mds.yandex.net/i?id=3eca42dcb6f5f9b63f57c55b4131b3715236fdc3-8497316-images-thumbs&n=13'/>
 <img align='left' alt='FastAPI' width='80px' src='https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png'/>
 <img align='left' alt='Scrapy' width='80px' src='https://avatars.mds.yandex.net/i?id=2556e79a8bba118cda60d2b8fd7df43006fb1892-5888427-images-thumbs&n=13'/>
 <img align='left' alt='Database' width='40px' src='https://raw.githubusercontent.com/github/explore/13295c57999765ac9ffa3281942a72ab08b79de2/topics/database/database.png'/>
