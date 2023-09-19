@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 - :office: Education: Bukhara State University, Applied Mathematics and Computer Science
 - 🔭 I’m currently working on [Application IDP](https://github.com/Olga-Zholudeva/Individual_development_plan)
 - :bike: Hobbies: longboard
-- 📫 How to reach me: [Telegram](https://t.me/oljoludeva)
+- 📫 How to reach me:
+    email: joludeva.olga@yandex.ru
+    TG: [Telegram](https://t.me/oljoludeva)
 
 ___
 
