@@ -3,7 +3,6 @@
 ### I am a Python backend developer
 - 🔭 I’m currently working on [Application IDP](https://github.com/Olga-Zholudeva/Individual_development_plan)
 - :office: Education: Bukhara State University, Applied Mathematics and Computer Science
-- :bike: Hobbies: longboard
 - 📫 How to reach me:
     - email: joludeva.olga@yandex.ru
     - [Telegram](https://t.me/oljoludeva)
